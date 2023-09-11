@@ -11,4 +11,4 @@ ______
 
 [Основы алгоритмизации и программирования](https://docs.google.com/document/d/1HGdkMKFaQ2ejT16IB157fnc4C7FYC_46sotEEaLZIi0/edit?usp=drivesdk)
 _____
-[Дя](https://i.pinimg.com/originals/b8/3e/53/b83e535aaf4d72eebec106944bb06094.png)
+![Дя](https://i.pinimg.com/originals/b8/3e/53/b83e535aaf4d72eebec106944bb06094.png)
