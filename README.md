@@ -14,4 +14,5 @@ _____
 [Реплит](https://replit.com/@billrusakov9)
 _____
 [Фриланс](https://freelance.habr.com/freelancers/deathmiller)
+[СкиллБокс]([)](https://docs.google.com/presentation/d/1YzHec4YLkyd_0akmAArOEoWPi7U_Zk649biS8nf3ecg/edit?usp=drivesdk)https://docs.google.com/presentation/d/1YzHec4YLkyd_0akmAArOEoWPi7U_Zk649biS8nf3ecg/edit?usp=drivesdk)
 ![Дя](https://i.pinimg.com/originals/b8/3e/53/b83e535aaf4d72eebec106944bb06094.png)
