@@ -14,4 +14,6 @@ _____
 [Реплит](https://replit.com/@billrusakov9)
 _____
 [Фриланс](https://freelance.habr.com/freelancers/deathmiller)
+_____
+[ГуглКоллаб](https://colab.research.google.com/drive/1_CVKitoik84G9jYjZD1A_mtr0cXKoPLu?usp=sharing)
 ![Дя](https://i.pinimg.com/originals/b8/3e/53/b83e535aaf4d72eebec106944bb06094.png)
